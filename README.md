@@ -1,6 +1,6 @@
 #  [2023 Dyalog APL Problem Solving Competiton](https://www.dyalog.com/student-competition.htm)
 
-This repository contains my entries for this competition. I greatly enjoyed the challenge.
+This repository contains my entries for this competition. I had fun with the challenge.
 
 [Phase 1](https://contest.dyalog.com/?goto=P1Intro) solutions are in `phase_1.dyalog`, and
 [phase 2](https://contest.dyalog.com/?goto=P2Intro) solutions are split into 2 parts: `bioinformatics.dyalog` and `potpourri.dyalog`.
